@@ -1,0 +1,15 @@
+{
+  "name": "webpack-learn001",
+  "version": "0.0.1",
+  "description": "learn webpack 001",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "ninico",
+  "license": "ISC"
+}
